@@ -11,5 +11,5 @@ Space Joyride es un runner lateral 2.5D en Unity donde el jugador controla un co
 
 # Documentación incluida:
 
-- [Historias de usuario (PDF)](historias_usuario.pdf)
+- [Historias de usuario (PDF)](historia_usuario.pdf)
 - [Diagrama UML (PDF)](UML.pdf)
